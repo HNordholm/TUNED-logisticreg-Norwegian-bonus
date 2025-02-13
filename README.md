@@ -5,6 +5,8 @@
 https://www.kode24.no/artikkel/her-er-lonnstallene-for-norske-utviklere-2024/81507953
 
 
+### Project 
+
 This project explores salary trends for Norwegian developers using R, data science, and machine learning. The goal is to explore what really drives salaries and bonuses by cleaning the data, spotting trends, and build a logistic regression model for bonus factor importance. 
 
 
